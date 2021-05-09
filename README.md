@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://blckunicorn.art/assets/images/logo/newBanner.png" width="350"/>
+ <img src="https://blckunicorn.art/assets/images/logo/newBanner.png"/>
 </p>
 
 # The Black Unicorn :unicorn: :black_heart:
