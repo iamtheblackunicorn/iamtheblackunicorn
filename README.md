@@ -14,8 +14,6 @@ If you would like to work with me, send me a message by clicking [here](mailto:o
 
 ## Links :robot:
 
-- Support me on Patreon: [Visit](https://patreon.com/iamtheblackunicorn)
-- Upwork: [Visit]()
 - GitHub: [Visit](https://github.com/iamtheblackunicorn)
 - Twitter: [Visit](https://twitter.com/blvckuncrn)
 - My profile on [pub.dev](https://pub.dev): [Visit](https://pub.dev/publishers/blckunicorn.art/packages)
