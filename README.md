@@ -1,7 +1,3 @@
-<p align="center">
- <img src="https://blckunicorn.art/assets/images/logo/banner.png"/>
-</p>
-
 # The Black Unicorn :unicorn: :black_heart:
 
 ## About me :books:
